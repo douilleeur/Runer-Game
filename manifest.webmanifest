@@ -1,0 +1,40 @@
+{
+ "name": "Runner 2D",
+ "short_name": "Runner 2D",
+ "description": "Course contre une IA, zombies aux trousses, objets, grappin et parkour.",
+ "lang": "fr",
+ "start_url": "./index.html",
+ "scope": "./",
+ "id": "./index.html",
+ "display": "fullscreen",
+ "display_override": [
+  "fullscreen",
+  "standalone"
+ ],
+ "orientation": "landscape",
+ "background_color": "#10131a",
+ "theme_color": "#10131a",
+ "categories": [
+  "games"
+ ],
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
